@@ -1,0 +1,72 @@
+[
+    {
+    "employees": 
+    [
+        {
+            "name": "Bob Boberson", 
+            "id": 1007, 
+            "position": "Manager of Bobs", 
+            "tasks": [{
+
+            }]
+        },
+        {
+            "name": "Karen Johnson", 
+            "id": 1008, 
+            "position": "Seer of Managers", 
+            "tasks": [{
+
+            }]
+        },
+        {
+            "name": "Enver Gortash", 
+            "id": 1009, 
+            "position": "Commander of the Steel Watch", 
+            "tasks": [{
+
+            }]
+        },
+        {
+            "name": "Adam Heman", 
+            "id": 1010, 
+            "position": "Defender of Eternia", 
+            "tasks": [{
+
+            }]
+        }, 
+        {
+            "name": "Dan Avidan", 
+            "id": 1011, 
+            "position": "The Not So Grump", 
+            "tasks": [{
+
+            }]
+        }, 
+        {
+            "name": "Arin Hanson", 
+            "id": 1012, 
+            "position": "The Grump", 
+            "tasks": [{
+
+            }]
+        }
+            
+    ]
+    
+},
+{
+    "tasks": [{
+        "name": "Bring One Ring to Izengard", 
+        "date": "10/31/2023", 
+        "employees": [{
+            "name": "Bob Boberson", 
+            "id": 1007
+        }, 
+        {
+            "name": "Enver Gortash", 
+            "id": 1009
+        }    
+    ]
+    }]
+}
+]
